@@ -3,7 +3,7 @@
 
 
 <h3 align="left">👨🏻‍💻  About Me</h3>
-🎓  I have successfully completed my Bachelor of Technology (B.Tech) in Information Technology from Future Institute of Engineering and Management, Kolkata<br>
+🎓  Completed my Bachelor of Technology (B.Tech) in Information Technology from Future Institute of Engineering and Management, Kolkata<br>
 🌱  LMAO<br>
 ⚽  Travelling / Football / Counter-Strike 2 / Elden Ring<br>
 
