@@ -3,7 +3,7 @@
 # About Me
 🎓  Completed my Bachelor of Technology (B.Tech) in Information Technology from Future Institute of Engineering and Management, Kolkata<br>
 🌱  LMAO<br>
-⚽  Travelling / Football / Counter-Strike 2 / Elden Ring<br>
+⚽  Football / UFC / Counter-Strike 2 / Elden Ring<br>
 <br>
 
 
