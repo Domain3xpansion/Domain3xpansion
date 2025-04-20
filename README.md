@@ -12,9 +12,9 @@
 <br><br>
 
 # 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=Domain3xpansion&theme=onedark&show_icons=true&hide_border=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Domain3xpansion&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Domain3xpansion&theme=onedark&show_icons=true&hide_border=true&layout=compact)<br><br>
+![](https://github-readme-stats.vercel.app/api?username=Domain3xpansion&theme=rust-ferris-dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Domain3xpansion&theme=rust-ferris-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Domain3xpansion&theme=rust-ferris-dark&show_icons=true&hide_border=true&layout=compact)<br><br>
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Domain3xpansion&theme=radical&no-frame=false&no-bg=true&margin-w=4)
